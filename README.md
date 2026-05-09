@@ -1,1 +1,83 @@
-<h1 align="center"> Hi, I'm Prerak 👋 — Building intelligent systems with LLMs & Python </h1> <p align="center"> <em>AI/ML Engineer in progress · Generative AI · RAG Systems · Full Stack</em> </p> <p align="center"> <a href="https://linkedin.com/in/prerakpandya"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://portfolio-two-delta-55.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/> </a> <img src="https://komarev.com/ghpvc/?username=Prerakk&color=0e75b6&style=flat"/> </p> --- ### 🧠 About me - 🎓 Final-year BCA in AI & ML @ JECRC University (May 2026) - 🔭 Currently building: **AI agents with memory + tool-use using LangChain** - 🌱 Exploring: **LLM fine-tuning, vector databases, agentic architectures** - 💡 Interested in: Generative AI, Intelligent Systems, AI-integrated products - 🛠 Past: RAG pipelines, ML classification, MERN stack internships - 📫 Reach me: pandyaprerak4@gmail.com --- ### 🛠 Tech stack **AI / Gen AI** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) **ML & Data** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) **Vector DBs** ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat) **Web / Deploy** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) --- ### 📌 Featured projects | Project | Stack | What it does | |---------|-------|--------------| | [rag-document-search](link) | LangChain · ChromaDB · FastAPI | Semantic PDF search in <3s | | [ai-file-manager](link) | spaCy · OpenCV · MongoDB | NL file queries, 89% tag accuracy | | [mentor-connect](link) | React · Node · MySQL | Mentorship platform, <120ms API | --- ### 📊 GitHub stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prerakk&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerakk&layout=compact&theme=default&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerakk&theme=default&hide_border=true"/> </p> --- <p align="center"> <em>"Move fast, learn in public, build things that matter."</em> </p>
+<h1 align="center">Hi, I'm Prerak 👋 — Building intelligent systems with LLMs & Python</h1>
+
+<p align="center">
+  <em>AI/ML Engineer in progress · Generative AI · RAG Systems · Full Stack</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prerakpandya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-two-delta-55.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prerakk&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+### 🧠 About me
+
+- 🎓 Final-year BCA in AI & ML @ JECRC University (May 2026)
+- 🔭 Currently building: **AI agents with memory + tool-use using LangChain**
+- 🌱 Exploring: **LLM fine-tuning, vector databases, agentic architectures**
+- 💡 Interested in: Generative AI, Intelligent Systems, AI-integrated products
+- 🛠 Past: RAG pipelines, ML classification, MERN stack internships
+- 📫 Reach me: pandyaprerak4@gmail.com
+
+---
+
+### 🛠 Tech stack
+
+**AI / Gen AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Vector DBs**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+
+**Web / Deploy**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📌 Featured projects
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [rag-document-search](https://github.com/Prerakk/rag-document-search) | LangChain · ChromaDB · FastAPI | Semantic PDF search in <3s |
+| [ai-file-manager](https://github.com/Prerakk/CleverCloud---AI-File-Manager) | spaCy · OpenCV · MongoDB | NL file queries, 89% tag accuracy |
+| [mentor-connect](https://github.com/Prerakk/mentor-Connect-platform-) | React · Node · MySQL | Mentorship platform, <120ms API |
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prerakk&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerakk&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerakk&theme=default&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <em>"Move fast, learn in public, build things that matter."</em>
+</p>
