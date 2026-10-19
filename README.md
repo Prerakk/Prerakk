@@ -73,5 +73,5 @@ I build LLM-powered applications end to end — retrieval pipelines, agents and 
 
 ### Let's talk
 
-I'm open to AI/ML internships, placements and graduate roles anywhere in the UK, alongside my MSc at Southampton.
+I'm open to AI/ML internships, placements and graduate roles anywhere in the UK.
 The quickest way to reach me is **[pandyaprerak4@gmail.com](mailto:pandyaprerak4@gmail.com)** or a message on [LinkedIn](https://linkedin.com/in/prerakpandya).
